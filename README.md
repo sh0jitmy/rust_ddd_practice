@@ -1,0 +1,1 @@
+# rust_ddd_practice
